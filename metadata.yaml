@@ -1,0 +1,29 @@
+_repo: Niilo-Skalm-b-Viisinaytoksinen-historiallinen-murhenaytelma_72868
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilkuna, Kyösti
+    alias: Wilkuna, Kyosti
+    birthdate: 1879
+    deathdate: 1922
+    gutenberg_agent_id: '4879'
+    url: http://www.gutenberg.org/2009/agents/4879
+    wikipedia: https://fi.wikipedia.org/wiki/Ky%C3%B6sti_Wilkuna
+description: ''
+gutenberg_issued: '2024-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72868'
+language: fi
+pgterms:marc905: 20220409230129wilkuna
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Niilo Skalm : $b Viisinäytöksinen historiallinen murhenäytelmä'
+url: http://www.gutenberg.org/ebooks/72868
